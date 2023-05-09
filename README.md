@@ -11,8 +11,8 @@
 Клонируйте репозиторий и добавьте его в $GOPATH
 
 ```sh
-git clone git@github.com:toadFrogski/ASDC03.git
-cd ./ASDC03
+git clone git@github.com:EriomencoNik/lab_4.git
+cd ./lab_4
 set GOPATH=path/to/dir;%GOPATH%     /*(Windows)*/
 export GOPATH=$GOPATH:/path/to/dir  /*(Linux)*/
 ```
